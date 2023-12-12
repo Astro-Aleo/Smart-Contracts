@@ -1,7 +1,7 @@
 # v1-core-contracts
 
 <p align="center">
-    <img width="1412" src="https://cdn.aleo.org/leo/banner.png">
+    <img width="1412" src="https://i.ibb.co/LvQXyCw/cover-2x.png">
 </p>
 
 <p align="center">
